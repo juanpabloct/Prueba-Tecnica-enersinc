@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Prueba-Tecnica-enersinc/static/css/main.78c2eef6.css",
-    "main.js": "/Prueba-Tecnica-enersinc/static/js/main.f7e32840.js",
-    "static/js/787.42508b47.chunk.js": "/Prueba-Tecnica-enersinc/static/js/787.42508b47.chunk.js",
-    "index.html": "/Prueba-Tecnica-enersinc/index.html",
-    "main.78c2eef6.css.map": "/Prueba-Tecnica-enersinc/static/css/main.78c2eef6.css.map",
-    "main.f7e32840.js.map": "/Prueba-Tecnica-enersinc/static/js/main.f7e32840.js.map",
-    "787.42508b47.chunk.js.map": "/Prueba-Tecnica-enersinc/static/js/787.42508b47.chunk.js.map"
+    "main.css": "/juanpabloct/Prueba-Tecnica-enersinc/static/css/main.78c2eef6.css",
+    "main.js": "/juanpabloct/Prueba-Tecnica-enersinc/static/js/main.913cc050.js",
+    "static/js/787.42508b47.chunk.js": "/juanpabloct/Prueba-Tecnica-enersinc/static/js/787.42508b47.chunk.js",
+    "index.html": "/juanpabloct/Prueba-Tecnica-enersinc/index.html",
+    "main.78c2eef6.css.map": "/juanpabloct/Prueba-Tecnica-enersinc/static/css/main.78c2eef6.css.map",
+    "main.913cc050.js.map": "/juanpabloct/Prueba-Tecnica-enersinc/static/js/main.913cc050.js.map",
+    "787.42508b47.chunk.js.map": "/juanpabloct/Prueba-Tecnica-enersinc/static/js/787.42508b47.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.78c2eef6.css",
-    "static/js/main.f7e32840.js"
+    "static/js/main.913cc050.js"
   ]
 }
