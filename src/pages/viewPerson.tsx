@@ -1,5 +1,5 @@
 import { Alert, Button, Row, Space } from "antd";
-import { useEffect } from "react";
+import React, { useEffect } from "react";
 import { useDispatch } from "react-redux";
 import { useNavigate, useParams } from "react-router-dom";
 import { getUser } from "../connect";

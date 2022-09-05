@@ -11,7 +11,7 @@ import {
   Space,
   Typography,
 } from "antd";
-import { useEffect, useState } from "react";
+import React, { useEffect, useState } from "react";
 import { useDispatch } from "react-redux";
 import { useNavigate, useParams } from "react-router-dom";
 import { editUser, getUser } from "../connect";

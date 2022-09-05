@@ -7,7 +7,7 @@ import {
   useError,
   useLoading,
 } from "../hooks Personalities/allHooksReducer";
-import { useEffect, useState } from "react";
+import React, { useEffect, useState } from "react";
 
 import { Loading } from "./loading/loading";
 import { useNavigate } from "react-router-dom";

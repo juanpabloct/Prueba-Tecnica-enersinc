@@ -1,4 +1,5 @@
 import "./loading.css";
+import React from "react";
 export const Loading = () => {
   return (
     <div id="contenedor">
