@@ -19,7 +19,7 @@ export const ViewPerson = () => {
   const navigate = useNavigate();
   useEffect(() => {
     dispatch(setLoading());
-    const time = setTimeout(() => {
+    setTimeout(() => {
       id && getUser(dispatch, +id);
     }, 1000);
     return;
